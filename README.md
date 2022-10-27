@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dvdmontagut (David Montagut Pamo)
-- 👀 I’m interested in videogames and manga :3 Also I like create apps create from scratch. I prefer backend but I can deffend my own apps look
+- 👀 I’m interested in videogames and manga :3 Also I like create apps from scratch. I prefer backend but I can deffend my own apps look
 - 🌱 I’m currently learning python, bootstrap, API development.
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me montagut@usal.es
