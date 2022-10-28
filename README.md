@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @dvdmontagut (David Montagut Pamo)
 - 👀 I’m interested in videogames and manga :3 Also I like create apps from scratch. I prefer backend but I can deffend my own apps look
 - 🌱 I’m currently learning python, bootstrap, API development.
-- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me montagut@usal.es
 - 📖 I have studied at the University of Salamanca
 - 🕚 I am studying a master in computer engineering
 - 🇪🇸 Soy español, but I can understand English very well when I'm listening or reading even though my grammar when I write or talk could be better 🇬🇧
+- Frameworks that i have used:
+-       CakePhp
+-       Flask
