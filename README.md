@@ -6,5 +6,5 @@
 - 🕚 I am studying a master in computer engineering
 - 🇪🇸 Soy español, but I can understand English very well when I'm listening or reading even though my grammar when I write or talk could be better 🇬🇧
 - Frameworks that I have used:
--       CakePhp
--       Flask
+- ·CakePhp
+- ·Flask
