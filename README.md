@@ -5,6 +5,6 @@
 - 📖 I have studied at the University of Salamanca
 - 🕚 I am studying a master in computer engineering
 - 🇪🇸 Soy español, but I can understand English very well when I'm listening or reading even though my grammar when I write or talk could be better 🇬🇧
-- Frameworks that i have used:
+- Frameworks that I have used:
 -       CakePhp
 -       Flask
